@@ -1,0 +1,8 @@
+{
+  "name": "Nova AI Creative Studio",
+  "description": "A world-class, multi-modal AI platform powered by Gemini. Experience real-time chat, stunning image generation, cinematic video creation, and high-fidelity text-to-speech in one seamless interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
